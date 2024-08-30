@@ -1,26 +1,26 @@
-## First Name Last Name
+## Hunter Batts
 
-### Term Year 
+### Fall 2024 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Accounting for Managers
 
-- Course 2
+- Benefit Cost Analysis
 
-- Course 3
+- Foundation of Data Analytics
 
-- Course 4
+- Legal, Ethics, and Management Issues in Technology
+
+- Probability and Statistics 2
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Video Games
 
-- Thing 2
-
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Watching Movies
 
 ***
 
